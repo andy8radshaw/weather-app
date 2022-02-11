@@ -1,5 +1,3 @@
-console.log('Client side JS file is loaded')
-
 const getWeatherData = location => {
   messageOne.textContent = 'Loading...'
   messageTwo.textContent = ''
