@@ -57,3 +57,12 @@ button {
   cursor: pointer;
   padding: 8px;
 }
+
+.about-link {
+  color: #555555;
+  text-decoration: none;
+}
+
+.about-link:hover {
+  color: #860c0c;
+}
